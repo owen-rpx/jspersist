@@ -1,0 +1,2 @@
+# jspersist
+Simple IndexedDB library
