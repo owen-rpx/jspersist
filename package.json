@@ -1,0 +1,20 @@
+{
+  "name": "jspersist",
+  "version": "0.1.2",
+  "description": "Simple IndexedDB library ",
+  "main": "persist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/owen-rpx/jspersist"
+  },
+  "keywords": [
+    "jspersist",
+    "Persist",
+    "IndexedDB"
+  ],
+  "author": "owen",
+  "license": "MIT"
+}
